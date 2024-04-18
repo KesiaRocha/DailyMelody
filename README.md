@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1> ılıılıılıılıılıılı DailyMelody ılıılıılıılıılıılı </h1>
+<h1> ₊˚ˑ ılıılıılıılıılıılı DailyMelody ılıılıılıılıılıılı ₊˚ˑ </h1>
 
 🎵 *My first website. Using node.js and Express!* 🎵
 
@@ -13,7 +13,7 @@ It's objective is to be a website where you can randomize a song/album/podcast e
 ![Daily Melody (2)-Photoroom png-Photoroom](https://github.com/KesiaRocha/DailyMelody/assets/124710521/10d561dc-a8db-447e-8fb8-833ebaa0f12a)
 
 <div align="center"> 
- <h1>  ılıılıılıılıılıılı Demonstration ılıılıılıılıılıılı</h1>
+ <h1> ₊˚ˑ ılıılıılıılıılıılı Demonstration ılıılıılıılıılıılı ₊˚ˑ</h1>
 
 ![11335061_9d291](https://github.com/KesiaRocha/DailyMelody/assets/124710521/09763f58-f494-4bac-8dd3-ac6d228d4927)
 
