@@ -13,9 +13,10 @@ It's objective is to be a website where you can randomize a song/album/podcast e
 ![Daily Melody (2)-Photoroom png-Photoroom](https://github.com/KesiaRocha/DailyMelody/assets/124710521/10d561dc-a8db-447e-8fb8-833ebaa0f12a)
 
 <div align="center"> 
- <h1> ₊˚ˑ ılıılıılıılıılıılı Demonstration ılıılıılıılıılıılı ₊˚ˑ</h1>
 
-![11335061_9d291](https://github.com/KesiaRocha/DailyMelody/assets/124710521/09763f58-f494-4bac-8dd3-ac6d228d4927)
+![Design sem nome](https://github.com/KesiaRocha/DailyMelody/assets/124710521/8840ea3c-0977-49c5-8d38-ffcb464d927a)
+
+
 
 
   
