@@ -5,15 +5,10 @@
 
 
 
-
 **-Landing Page**
 
 
-
-
 https://github.com/KesiaRocha/DailyMelody/assets/124710521/0fe41ea3-315c-4a6e-84d0-c99db61494c0
-
-
 
 
 
