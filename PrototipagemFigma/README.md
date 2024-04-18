@@ -3,7 +3,14 @@
 <h1>  ılıılı Prototipagem no Figma de acordo o que a atividade pede ılıılı  </h1>
 
 
+
 ![figma prototipo](https://github.com/KesiaRocha/DailyMelody/assets/124710521/6da950d0-316d-4811-bba6-d7c76efd5aa8)
+
+
+**-Paleta de cores**
+
+![paleta de cores](https://github.com/KesiaRocha/DailyMelody/assets/124710521/8559617b-589d-4e78-9603-4d2c411bee9b)
+
 
 **-Landing Page/index**
 ![Landing Page (1)](https://github.com/KesiaRocha/DailyMelody/assets/124710521/f5d440a1-bcd8-4168-80d8-67473b70fa11)
