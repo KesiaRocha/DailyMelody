@@ -13,6 +13,6 @@
 
 **-Link de visualização do Replit**
 
-https://replit.com/@KesiaDrip/DailyMelodyProjectNode
+https://replit.com/@KesiaDrip/DailyMelodyProjectNodeFINAL?v=1
 
 <h1> O arquivo do projeto está como .zip nesse mesmo diretório.</h1>
